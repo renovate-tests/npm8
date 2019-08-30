@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "instantsearch-e2e-tests": "algolia/instantsearch-e2e-tests#v1.0.0"
+    "instantsearch-e2e-tests": "algolia/instantsearch-e2e-tests#v1.1.0"
   }
 }
